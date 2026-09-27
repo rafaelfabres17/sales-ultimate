@@ -1,0 +1,22 @@
+{
+  "static": {
+    "check": "✔️",
+    "cancel": "✖️",
+    "warning": "⚠️",
+    "info": "ℹ️",
+    "cart": "🛒",
+    "string": "📃",
+    "dollar": "💵",
+    "truck": "🚚",
+    "card": "💳",
+    "add": "➕",
+    "remove": "➖",
+    "pencil": "✏️",
+    "show": "👁️",
+    "trash": "🗑️",
+    "previous": "◀️"
+  },
+  "animated": {
+    "spinning": "🔄️"
+  }
+}
